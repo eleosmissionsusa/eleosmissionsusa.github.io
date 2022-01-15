@@ -1,0 +1,128 @@
+.missions {
+    color: white;
+    background-color: black;
+    margin: 5px;
+    font-family: 'Merriweather', serif;
+}
+
+.pdf {
+    align-items: center;
+    text-align: center;
+}
+
+.missionsstate {
+    text-align: center;
+    color: black;
+    font-family: 'Merriweather', serif;
+}
+
+.title {
+    text-align: center;
+    color: black;
+    font-family: 'Merriweather', serif;font-family: 'Merriweather', serif;
+    font-weight: bold;
+    font-size: 50px;
+}
+
+.statementword {
+    text-align: center;
+    color: black;
+    margin-top: 10px;
+    font-family: 'Merriweather', serif;
+}
+
+.donateform {
+    width: 700px;
+    box-shadow: 0 0 20px 0 rgba(0,0,0,0.3);
+    background: white;
+    padding: 50px;
+    margin: 8% auto 0;
+    text-align: center;
+}
+
+.donatebtn {
+    color: white;
+    background-color: blue;
+}
+
+.bodyback {
+    background-color: lightblue;
+}
+
+.missionstate {
+    text-align: center;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-top: 5px;
+    font-family: 'Merriweather', serif;
+}
+
+
+.navthing {
+    color: lightblue;
+}
+
+.headingthing {
+    text-align: center;
+    color: black;
+    font-family: 'Merriweather', serif;
+    font-weight: bold;
+}
+
+.photoleft {
+   margin-left: 100;
+   padding-top: 10px;
+}
+
+.photoright{
+    margin-left: 50;
+    padding-top: 10px;
+}
+
+.photomiddle {
+    margin-left: 50;
+    padding-top: 10px;
+}
+
+.photoindent {
+    margin-left: 50;
+    padding-top: 10px;
+}
+
+.photoindent2 {
+    margin-right: 50;
+    padding-top: 10px;
+}
+
+.carousel-inner > .item > img {
+    min-width: 20%;
+    width: 20%;
+}
+
+.eleosfrontpic {
+    width: 30%;
+    margin-top: 5px;
+    height: auto;
+}
+
+.navbar-brand:hover {
+    background-color: orange;
+}
+
+.navbar-brand {
+    margin-left: 50px;
+}
+.navbar-logo{
+    padding-top:.3125rem;
+    padding-bottom:.3125rem;
+    margin-right:1rem;
+    font-size:1.25rem;
+    line-height:inherit;
+    white-space:nowrap}
+.navbar-logo:focus,.navbar-logo:hover {
+text-decoration:none
+}
+
+.carousel-inner {
+    transition: 0.6s ease-in-out left;
+}
